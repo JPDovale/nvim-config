@@ -9,4 +9,7 @@ return {
       position = "right",
     },
   },
+  {
+    "digitaltoad/vim-ejs",
+  },
 }
