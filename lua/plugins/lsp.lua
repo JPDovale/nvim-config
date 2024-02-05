@@ -10,6 +10,6 @@ return {
     },
   },
   {
-    "digitaltoad/vim-ejs",
+    "briancollins/vim-jst",
   },
 }
